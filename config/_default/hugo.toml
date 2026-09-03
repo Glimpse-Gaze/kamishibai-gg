@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://Glimpse-Gaze.github.io/home/"
+baseURL = "https://Glimpse-Gaze.github.io/portfolio/"
 defaultContentLanguage = "en"
 locale = "en"
 

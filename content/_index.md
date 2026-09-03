@@ -11,4 +11,4 @@ heroButtons:
     style: "outline"
 ---
 
-These are a couple of projects I’ve been working on. Replace this intro with a short note about your work.
+These are a couple of projects I’ve been working on.

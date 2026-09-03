@@ -6,7 +6,5 @@ layout: "simple"
 
 The easiest way to reach me is by email.
 
-- Email: [hello@example.com](mailto:hello@example.com)
-- GitHub: [github.com/username](https://github.com/username)
-
-Replace these placeholders with your real contact details.
+- Email: [glimpseandgaze@gmail.com](mailto:glimpseandgaze@gmail.com)
+- GitHub: [https://github.com/Glimpse-Gaze](https://github.com/Glimpse-Gaze)
